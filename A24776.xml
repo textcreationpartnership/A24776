@@ -1,0 +1,469 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrological observations and predictions for the year of our Lord 1691 wherein also is briefely shewn the signification of the earthquake that hapned in March last in the city of Bristol : and wherein also are briefely shewn the significations of the three oppositions of Saturn and Jupiter, that will happen in the [sic] 1692 and 1693, and of the eclipses of this present year : likewise monthly observations for every month throughout this present year, briefely containing the most remarkable events and accidents that are likely to happen in divers places of the world / by John Silvester.</title>
+            <author>Silvester, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24776</idno>
+            <idno type="STC">Wing A2388</idno>
+            <idno type="STC">ESTC R37023</idno>
+            <idno type="EEBO-CITATION">16186894</idno>
+            <idno type="OCLC">ocm 16186894</idno>
+            <idno type="VID">105015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105015)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1084:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Astrological observations and predictions for the year of our Lord 1691 wherein also is briefely shewn the signification of the earthquake that hapned in March last in the city of Bristol : and wherein also are briefely shewn the significations of the three oppositions of Saturn and Jupiter, that will happen in the [sic] 1692 and 1693, and of the eclipses of this present year : likewise monthly observations for every month throughout this present year, briefely containing the most remarkable events and accidents that are likely to happen in divers places of the world / by John Silvester.</title>
+                  <author>Silvester, John, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: 1691.</note>
+                  <note>"Licensed to be printed, June 28. 1690. J. F."</note>
+                  <note>Advertisement: p. 14.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105015:1" rendition="simple:additions"/>
+            <p>1691. ASTROLOGICAL OBSERVATIONS AND Predictions For the Year of Our LORD 1691.</p>
+            <p>Wherein alſo Is Briefely Shewn the Signification of the Earthquake that Hapned in <hi>March</hi> laſt in the City of <hi>Briſtol.</hi>
+            </p>
+            <p>And wherein alſo Are Briefely Shewn the Significations of the Three Oppoſitions of <hi>Saturn</hi> and <hi>Jupiter,</hi> that will Happen in the 1692. and 1693. And of the ECLIPSES of this preſent YEAR, LIKEWISE Monthly Obſervations for every Month throughout this preſent Year; Briefely Containing the moſt Remarkable Events and Accidents that are likely to Happen in divers Places of the World.</p>
+            <p>By JOHN SILVESTER.</p>
+            <p>
+               <hi>Licenſed to be Printed,</hi> June 28. 1690. <hi>J. F.</hi>
+            </p>
+            <p>LONDON, Printed for the Author 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="astrological_observation">
+            <pb facs="tcp:105015:2"/>
+            <pb n="1" facs="tcp:105015:2"/>
+            <head>Of the Earthquake that Happened in the City of <hi>Briſtol,</hi> (and other Adjacent Towns and Places) on <hi>Shrove-Tueſday</hi> laſt, [being the 4th. day of <hi>March] Anno Domini 1689.</hi> about a quarter of an Hour before one of the Clock in the Morning, it being very Calm and without Rain before and after.</head>
+            <p>I Being not Awake my ſelf at the Time of this ſtrange Accident, made ſeveral Enquiries about it, but the beſt Information I could have of it was this, — That it firſt began with a loud and terrible Noiſe (like the Bownce of a Barrel of Gunpowder when a Houſe is blown up therewith) and immediately the Bedſtead and other things in the Room were ſhaken, and as it were trembled, which ſo continued by Gueſs about four or five Minutes, and at length there was heard two ſmall Noiſes like two Steps of a Man (there being ſome ſmall diſtance of time between) and immedi<g ref="char:EOLhyphen"/>ately it ſeemed to go out at the top of the Houſe with another Bownce, but not ſo great as the firſt; This Perſon then Sitting on the Bed ſide, (being terribly Affrighted) fell into a Swooning Fit.</p>
+            <p>Moreover, by Others I was informed, that it made the Chamber Door and Latch to ſhake and make a Noiſe, and the Glaſs-windows to Shake and Rattle, as if they would have been broken to pieces, and made the Bodies of ſome that were Sitting, to Rock, and ſome that were ſtanding, to Reel to and fro, they all wondring what was the Matter.</p>
+            <p>And becauſe Report Rendred this Accident ſomewhat wonderful, I could not but Enter into ſome ſerious Meditations about it, which in<g ref="char:EOLhyphen"/>duced Me to make an Obſervation for the time of the Event, which followeth.</p>
+            <p>Sagittarius [<hi>the Houſe of Religious</hi> Jupiter] <hi>Aſcends:</hi> Mars <hi>lord of the</hi> 12th. <hi>and Diſpoſitor of</hi> Saturn, <hi>is in Oppoſition to the Aſcendant from</hi> Gemini [<hi>the</hi> Aſcendant <hi>of</hi> London,] <hi>And beſides the Monn is Haſtening to an Oppoſition of</hi> Saturn, <hi>Poſited in the</hi> 12th.</p>
+            <p>
+               <pb n="2" facs="tcp:105015:3"/>
+This according to my Opinion Signifies, That ſome ſecret Miſ<g ref="char:EOLhyphen"/>chievous Action, (or more plainly a Plot) will too ſoon Manifeſt it ſelf againſt ſome Religious Sort of Common People.—But whereas <hi>Jupiter</hi> Lord of the Aſcendant is ſtrong, and Joyned with <hi>Venus</hi> Lady of the 10th. the evil Deſign will not proſper, but will End to the Joy and Comfort both of King and People.</p>
+            <lg>
+               <l>Saturn's <hi>a Plotter,</hi> Mars <hi>doth Him diſpoſe,</hi>
+               </l>
+               <l>
+                  <hi>Threatning th' Aſcendant with great ireful Woes:</hi>
+               </l>
+               <l>London, <hi>beware of Plots and Miſchiefs now;</hi>
+               </l>
+               <l>
+                  <hi>Leſt ſudden Sorrows come thou Knowsſt not how;</hi>
+               </l>
+               <l>
+                  <hi>Watch wary, the juſt time thou doſt not Know.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>And beſides, the Opinion of the Ancient</hi> Aſtrologers <hi>was, that all</hi> Earth<g ref="char:EOLhyphen"/>quakes <hi>denote Warres, or ſuch kind of Troubles, to the Places chiefely where the Event Happens, ſo that by this Rule howevtr it ſhould Happen in</hi> England; <hi>but whether ever any ſuch evil Deſign may have its Riſe in the City of</hi> Briſtol <hi>or not, I leave it to ſome Wiſer Head to Expound.</hi>
+            </p>
+            <p>Thoſe Glorious Celeſtial Bodies the Planets and Starres, that ſo Miraculouſly and Continually perform their Circular Motions, ac<g ref="char:EOLhyphen"/>cording to the unchangeable Decree and Will of the moſt Wiſe and Omniſcient Creator, do ſeem to ſhew forth to fallen Man a certain kind of Predeſtination of Events in the Will of the Almighty; For the Minds of Men and People, do naturally follow their Motions, and mu<g ref="char:EOLhyphen"/>tual Concord and Diſcord amongſt themſelves, as the Needle doth the Motion of a Loadſtone, (though this Myſtery be unknown to the greateſt part of Men) as by our daily Experiences we perceive and find, for by ſome Aſpects they ſecretly draw the Minds of Men and People to Love and Unity; And by ſome Aſpects contrariwiſe they ſtir up Mens Minds to Enmity and Diſcord; And ſometimes they E<g ref="char:EOLhyphen"/>levate the Lofty Mind unto greater pride, (Men wanting the moſt pure Divine Power for Preſervation,) And ſometimes they ſecretly operate and deject the Lofty Mind into a more humble ſtate, and at ſuch a time they often induce it to Conſider, how vain all worldly pomp is by Reaſon of the Mortality of the Body, ſo that at ſome time or times in every Mans Life, there ſeems to drop down from Heaven a Refining Influence more then ordinarily powerful, whereby the Refining Spirit of Judgement in Man or Men is as it were A<g ref="char:EOLhyphen"/>wakened,
+<pb n="3" facs="tcp:105015:3"/>wakened to Reprove their Lofty Minds for their evil Deeds, ſo that God hath not limited Himſelf to work only by his Spirit (within,) but doth alſo freely Operate by thoſe Heavenly Bodies (without), which being admirably Glorious, as well in times paſt as in our dayes, cauſed <hi>David</hi> thus to proclaim, — <hi>The Heavens declare the Glory of God, and the Firmament ſheweth his Handy Werk</hi> Pſal. 19. v. 1.</p>
+            <p>The moſt Glorious Lamp of Heaven the Sun Enters into the Firſt Minute of the Equinoctial Sign <hi>Aries,</hi> on <hi>March</hi> the 9th. 19 h. 32.1. P. M. At which time the 18th. Degree of the <hi>Iriſh</hi> Sign <hi>[Taurus]</hi> Aſcends, and <hi>Venus</hi> Lady of the Aſcendant is near unto <hi>Mars,</hi> (the Diſpoſitor of <hi>Jupiter</hi> in the Eleventh, yet ſlowly ſeparates from him, as if ſome Diſcords would yet be Continued in Councils (eſpecially in <hi>Ireland</hi>) about ſome Religious Ceremonies, which will but Vex the Commonalty, and as if there were yet a people in <hi>Ireland</hi> that are ſomewhat for Warre, though they ſometimes deſire Peace, being ſome<g ref="char:EOLhyphen"/>what loth to Fight to ſhed Blood. <hi>Saturn</hi> lord of the 9th. 10th and 11th. Houſes, in the 7th. doth not only ſhew a ſecret diſunity of the Commonalty and Superiours, but alſo (being Retrograde towards the Cuſp of the 7th.) doth foreſhew ſome kind of ſecret Plottings, and Miſchievous Contrivances in <hi>Ireland,</hi> tending to the diſcomfort of that Land. But in <hi>May</hi> this preſent Year <hi>Jupiter</hi> comes into <hi>Taurus,</hi> [the Aſcendant of <hi>Ireland</hi>] and about that time Peace will begin to mitigate the furiouſneſs of Men; yet I fear the turbulency of <hi>Ireland</hi> will not be quite over, till about the time when <hi>Saturn</hi> leaves the Sign <hi>Scorpio,</hi> which will not be till towards the latter End of <hi>October</hi> this preſent year, and then he enters into <hi>Sagittarius</hi> [the Sign oppoſite to <hi>Gemini</hi> the Aſcendant of <hi>London</hi>] and then I fear ſome envious diſſa<g ref="char:EOLhyphen"/>tisfied Spirits there will begin to plot and contrive how to bring to paſs ſome Miſchievous Deſign to make Diſturbances and Alteration of Lawes or Religious Orders; And beſides, the Warring Planet <hi>Mars</hi> enters into <hi>Gemini</hi> [the Aſcendant of <hi>London</hi>] on the 5th day of <hi>Auguſt,</hi> and will quarter there ſeven Months; And about <hi>December</hi> he will be almoſt in oppoſition to <hi>Saturn</hi> from <hi>Gemini</hi> and <hi>Sagittarius,</hi> that I fear, during the laſt four or five Months of this preſent year, there will be ſome great Variances and Fury, if not ſome Warlike Diſtur<g ref="char:EOLhyphen"/>bances in ſome great City about Religious Orders and Ceremonies; And further, thoſe diſſatisfied Spirits will again be quickned by the Three Oppoſitions of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Gemini</hi> and <hi>Sagittarius,</hi> in 1692. and 1693. — Of which more hereafter.</p>
+            <p>
+               <pb n="4" facs="tcp:105015:4"/>
+Furthermore, I obſerve the Moon to be Entertained by <hi>Jupiter</hi> in his Nobleſt Sign, and ſhe is applying to his Trine in <hi>England</hi>'s Aſcen<g ref="char:EOLhyphen"/>dant, from hence great will be the Comforts of the Communalty, to ſee ſuch likelihood of the Eſtabliſhment of the Religion, that <hi>England</hi> doth and hath formerly enjoyed: <hi>Jupiter</hi> will be in <hi>Aries</hi> till <hi>May,</hi> ſo that he intends to Keep Peace and Temperance in <hi>England</hi> as much as he can, during the firſt four Months of this preſent Year; But it is obſervable, that juſt about the time when <hi>Jupiter</hi> leaves <hi>Aries,</hi> the quarrelſom Planet <hi>Mars</hi> enters therein, but indeed he ſtays there but five or ſix Weeks, that he cannot do much hurt, though he may ſtir up or create ſome ſhort Variances in <hi>England</hi> (and <hi>France</hi> too) in <hi>May</hi> or <hi>June,</hi> but I Conjecture he will cauſe turbulent Actions in <hi>Ireland</hi> in <hi>July,</hi> when he comes to the oppoſition of <hi>Saturn,</hi> although <hi>Jupiter</hi> ſtands as it were at his Elbow to perſwade him to Peace.</p>
+            <p>Again, <hi>Venus</hi> Lady of the Aſcendant, being near to <hi>Mars,</hi> will en<g ref="char:EOLhyphen"/>cline both Males and Females to Wantonneſs, but <hi>Mars</hi> being exalted above <hi>Venus</hi> will ſomewhat quench thoſe carnal deſires, and will alſo cauſe Women not ſoon to conceive with Child: The Aſcendant is a Fixed Sign, and therefore the Judgement of this Vernal Ingreſs may the better ſerve for the whole Year.</p>
+            <p>The Poſition of <hi>Mars</hi> near the 9th. Houſe (in the Figure of the Summer Solar Ingreſs) and <hi>Saturn</hi> in the third Houſe denotes to Mar<g ref="char:EOLhyphen"/>riners pretty dangerous Summer Sea-Voyages, partly by a diſturbed Sea, and partly through Pyrates or Sea-Fights, eſpecially near the <hi>Eng<g ref="char:EOLhyphen"/>liſh, Iriſh</hi> and <hi>French</hi> Shore; Merchants and Mariners greatly deſire peace and freedom on the Waters.</p>
+            <p>
+               <hi>Leo</hi> [the Aſcendant of <hi>Rome</hi> and <hi>Briſtol</hi>] is the Aſcendant of the Figure of the Autumnal Solar Ingreſs, and the poſition of <hi>Mars</hi> in the 11th. in <hi>Gemini</hi> ſeems to cauſe Diſcords in Councils, in this Autumnal Quarter, eſpecially in the Councils of <hi>Rome, London</hi> and <hi>Briſtol.</hi>
+            </p>
+         </div>
+         <div type="astrological_observation">
+            <head>Of the Three Oppoſitions of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>June</hi> and <hi>December 1692.</hi> and in <hi>April 1693.</hi>
+            </head>
+            <p>IT hath been long Obſerved, That the moſt Remarkable Mutations of a King<g ref="char:EOLhyphen"/>dom or Nation, have chiefely depended on the Cunjunctions or Aſpects of thoſe two Superiour Planets <hi>Saturn</hi> and <hi>Jupiter,</hi> and by their Effects paſt we
+<pb n="5" facs="tcp:105015:4"/>perceive that the moſt Wiſe Creator Firſt Placed them higher then all the other Planets, that they ſhould reſpect, chiefely, the higheſt and moſt durable Affairs and Concernes of Men on Earth.</p>
+            <p>And if one Oppoſition of <hi>Saturn</hi> and <hi>Jupiter</hi> produceth much, how then can thoſe three Oppoſitions to come, do any leſs then cauſe ſome Remarkable Changes and Alterations of Laws or Religious Orders in <hi>Englands</hi> Chief and moſt Re<g ref="char:EOLhyphen"/>nowned City, becauſe <hi>Saturn</hi> then will be ſtronger then <hi>Jupiter,</hi> who alſo at his ſecond Oppoſition will be near unto the Body of <hi>Mars</hi> [the Planet of Warre] and having took Poſſeſſion of Religious <hi>Jupiter,</hi> ſhould contend with him (with a frowning lofty Countenance,) in <hi>Londons</hi> Aſcendant, from whence I fear ſome Religious Diſturbances, if not ſome Warlike Violence by Inſurrections, or otherwiſe, occaſioned by ſome frowning diſſatisfied Minds, which will then Happen in ſome part of <hi>Britain,</hi> or take its Begsnning there to the Purpoſe in thoſe yeares.</p>
+            <p>Ah poor <hi>Jupiter</hi> in <hi>Gemmi [L — n]</hi> I fear thou wilt then be ſo much Humbled againſt thy Will, that thou wilt think thou haſt a ſufficient Occaſion to bewail thy Condition; And if ſo, God will ſuffer this, that thou mayeſt humbly Endeavour to forſake thy accuſtomed Sins, and that thou mayeſt know Pewer is not in Thee to help thy ſelf, — But yet I think thou wilt then have no need to fear that God hath wholly forſaken Thee; For look but a little back unto the Yeares <hi>1682</hi> and <hi>1683.</hi> where <hi>Jupiter</hi> was three times in Conjunction with <hi>Saturn,</hi> in a Sign of his own Triplicity, and Conſider, was not he then ſtronger then <hi>Saturn,</hi> and haſt not thou been Victorious ever ſince, throughout all thoſe great Changes and Alterations, and when thou haſt thus Conſidered, per<g ref="char:EOLhyphen"/>haps thou wilt believe that that which begins well will End well, and indeed per<g ref="char:EOLhyphen"/>haps it may ſo Happen, but be not too proud of this, a Word is enough to the Wiſe.</p>
+            <p>
+               <hi>Spain</hi> is under the Sign <hi>Sagittarius</hi> (and <hi>Buda</hi> too) and I Conjecture there will great Troubles and Diſcords begin there, as ſoon as the Miſchievous Planet <hi>Saturn</hi> Enters into that Sign, which will be at the latter End of <hi>October</hi> this preſent Year, for then there will be ſecret Miſchievous Plottings, by a ſort of People that will be diſſatisfied with the preſent Government there, and in <hi>June 1692.</hi> when <hi>Jupiter</hi> makes his firſt Oppoſition againſt <hi>Saturn,</hi> there will Ariſe higher Diſcords then before about their Religion; And a wonder it will be, if ſome Zealous People in <hi>Flanders,</hi> or ſome other place under <hi>Gemini</hi> be not then quickned and ſtirred up to make Warres againſt thoſe diſſatisfied people in <hi>Spain;</hi> And when <hi>Mars</hi> comes to the Conjunction of <hi>Saturn</hi> in <hi>No<g ref="char:EOLhyphen"/>vember 1692.</hi> I doubt not but it will ſhortly after cauſe an Inſurrection and Warlike Tumult amongſt the people of that Land; And in <hi>December</hi> (which is the next Month after) when <hi>Jupiter</hi> makes his ſecond Oppoſition
+<pb n="6" facs="tcp:105015:5"/>againſt <hi>Saturn;</hi> I am of Opinion, that there will then be a terrible Warre and much Bloodſhed (or that it will ſtir up ſtrong Reſolutions to effect it in a ſhort time) becauſe <hi>Mars</hi> will then be ſo near unto <hi>Saturn;</hi> And when <hi>Jupiter</hi> makes his third Oppoſition againſt <hi>Saturn,</hi> there will ſhortly after be Impriſon<g ref="char:EOLhyphen"/>ments to many, if not alſo Death, for as this is the laſt of the Oppoſitions, ſo Impriſonments and Death are the laſt, or end of Warre. Let the King of <hi>Spain</hi> beware, for I doubt he will be in danger of being Sick, for thoſe Oppoſitions do uſually diſpoſe Kings to be Sick, and Magiſtrates under one of the Signes of the Oppoſition, and <hi>Jupiter</hi> the lord of <hi>Spain</hi> will then he very weak, I doubt not, but ſuch will be the Effects of thoſe Oppoſitions in <hi>Spain,</hi> or in thoſe places chiefely under <hi>Sagittarius</hi> and <hi>Gemini,</hi> and yet may Operate in a leſs meaſure in the places under <hi>Piſces</hi> and <hi>Virgo,</hi> but though they begin to Operate preſently, yet perhaps they may not always publickly manifeſt their Effects juſt at the very time of their Oppoſitions, but ſometimes in ſome Weeks or Months after; And though thoſe Oppoſitions Operate chiefely in thoſe places that are under <hi>Sagit<g ref="char:EOLhyphen"/>tarius</hi> and <hi>Gemini,</hi> yet they will Create great troubles in any other Nation to particular Perſons that are born under either of thoſe Signes, or more plainly to thoſe whoſe Aſcendants are <hi>Sagittarius</hi> and <hi>Gemini.</hi>
+            </p>
+            <p>I could ſay ſomething of <hi>Scotland</hi> and <hi>Holland,</hi> and I think it convenient ſo to do becauſe they are Neighbouring Nations. But the Troubles which I am about to tell you of, will not Happen to thoſe Nations till the years <hi>1695.</hi> and <hi>1696.</hi> (yet perhaps may begin in <hi>1694.</hi> when <hi>Saturn</hi> comes into <hi>Capri<g ref="char:EOLhyphen"/>corn</hi>) and then great Troubles, and (I fear) Warres may be there expected, and in or about thoſe yeares the City of <hi>Oxford</hi> (I fear) will have manifold Troubles and Afflictions, eſpecially becauſe the terrible Comet in the year <hi>1680.</hi> appeared in the Aſcendant thereof.</p>
+            <p>And perhaps ſome may expect that I ſhould now mtntion ſomething about <hi>Italy</hi> and <hi>Rome,</hi> but Six or Seven yeares hence will be time enough for that, when <hi>Saturn</hi> approacheth towards <hi>Aquarius,</hi> therefore let them be Contented at preſent with this ſhort Diſcourſe of Events nearer at Hand, and with true penitent Hearts and humble Minds let them pray to the Almighty God, that he would be pleaſed to Preſerve <hi>England</hi> from the Plague, or any other unuſual Mortality, which I fear ſome Cities in <hi>Britain</hi> will be ſubject to in the years <hi>1692.</hi> or <hi>1693.</hi> for it hath been obſerved that this malevolent Planet <hi>Saturn,</hi> never paſſed through a Sign of the Fiery Triplicity, but he afflicts ſome City or other with the Plague or ſome other dangerous Diſeaſe. Alſo it hath been Ob<g ref="char:EOLhyphen"/>ſerved, that when he hath Tranſited the Sign <hi>Sagittarius,</hi> there hath uſually Happened ſome great Fire in an Eminent City; What hurt do I do, by fore<g ref="char:EOLhyphen"/>warning them to beware, the moſt dangerous times being about <hi>November</hi> and <hi>December 1692.</hi> and about <hi>July 1693.</hi>
+            </p>
+         </div>
+         <div type="prognostication_of_eclipses">
+            <pb n="7" facs="tcp:105015:5"/>
+            <head>Of the ECLIPSES of this preſent Year 1691.</head>
+            <p>THis Year there will Happen only two Eclipſes of the moſt Glorious Luminary of Heaven <hi>[The Sun]</hi>
+            </p>
+            <p>The Firſt will be a great Eclipſe of the <hi>Sun</hi> on the <hi>18th.</hi> of <hi>February,</hi> and the middle time thereof will be at above half an Hour paſt four of the Clock in the Morning, but it will be inviſible to us, becauſe the <hi>Sun</hi> will then be <hi>ſub terra</hi> It Happeneth in the Sign <hi>Piſces</hi> of the Watry Triplicity, which ſignifies the Death of Common People, Rumours of Warres, the Overflowing of the Sea-Banks. Deſtruction to Fiſhes. It Happeneth in the ſecond Houſe, and therefore it fore<g ref="char:EOLhyphen"/>ſhews many Loſſes to Happen to Common People.</p>
+            <p>The Second will be alſo a great Eclipſe of the <hi>Sun</hi> on the <hi>13th.</hi> of <hi>Auguſt,</hi> and the middle time thereof will be near unto Five of the Clock in the After<g ref="char:EOLhyphen"/>noon, and it will be viſible to us if the Air be clear. It Happeneth in the Firſt Degree of <hi>Virgo.</hi>—It denotes Scarcity of Corn and Fruit, eſpecially becauſe it Happeneth in the Eighth Houſe, for which Reaſon it denotes Death to Hu<g ref="char:EOLhyphen"/>mane Creatures; <hi>Mercury</hi> is lord of the <hi>Eclipſe</hi> and <hi>Combuſt,</hi> wherefore it threatens Death to Scholars, and the wiſer ſort of Men, but <hi>Mars</hi> being lord of the ſubſequent Angle foreſhews deſtruction by Warres; but it will chiefely Ope<g ref="char:EOLhyphen"/>rate in the Countreys and Places under the Signes <hi>Virgo, Piſces, Gemini</hi> and <hi>Sagittarius,</hi> and according to the Rule of <hi>Aſtrology,</hi> it will not begin to O<g ref="char:EOLhyphen"/>perate very manifeſtly till the Month of <hi>June 1692.</hi>
+            </p>
+            <lg>
+               <l>Behold now how the Glorious Wiſe Creator,</l>
+               <l>Secretly Rules the Air, Earth and Water,</l>
+               <l>Changing the Minds ef Creatures that have ſenſe,</l>
+               <l>Not only by the Starry Influence,</l>
+               <l>But alſo by ſtrange Comets that Appear,</l>
+               <l>And by th' Eclipſes that are ev'ry Year.</l>
+            </lg>
+            <p>
+               <hi>So that he hath made none of all his Works in vain.</hi>
+            </p>
+         </div>
+         <div type="prognostications">
+            <head>Monthly Obſervations briefely Containing the moſt Remarkable Events and Accidents, that are likely to Happen in every parti<g ref="char:EOLhyphen"/>cular Month this preſent Year.</head>
+            <div type="month">
+               <head>JANUARY.</head>
+               <p>THE Beginning of this Month, or the latter End of the laſt Month, ſeems to produce ſome kind of Diſcords, or Variances amongſt
+<pb n="8" facs="tcp:105015:6"/>Common People; All ſeems not to be well then at <hi>London;</hi> Some Diſcords, if not ſome other Afflictions about Religion, yet chiefely in <hi>Ireland,</hi> and in the City of <hi>Oxford, &amp;c.</hi> about the latter End of the Month; Many Affronts Happen on the Roads, eſpecially in <hi>Scotland, Holland</hi> and <hi>Ireland;</hi> Great Conſultations in Councils about the Af<g ref="char:EOLhyphen"/>fairs of <hi>Ireland,</hi> about the latter part of the Month; Dangerous Sick<g ref="char:EOLhyphen"/>neſſes proceeding from Choler and Melancholy, happen in the firſt half of this Month; And in the latter, half the Seas are like to be very Dangerous through Pyrates, (if not alſo at the beginning of the next) eſpecially near <hi>Ireland, Lorrain,</hi> the North-part of <hi>Scotland,</hi> and great part of the Turks Dominions; <hi>Ireland</hi> and <hi>Paris</hi> ſeem to be ſubject to ſome ſcandalous Sickneſs; Rain or Snow on or about the 12th. 13th. 22th 23. and 27th. days; Cloudy, if not ſome Thunder, on or about the 16th. or 17th. days.</p>
+               <lg>
+                  <l>
+                     <hi>I cannot Chooſe but think of ſomething paſt,</hi>
+                  </l>
+                  <l>
+                     <hi>Which lately Happen'd in</hi> November <hi>laſt;</hi>
+                  </l>
+                  <l>
+                     <hi>For then the two Infortunes were Conjoyn'd,</hi>
+                  </l>
+                  <l>
+                     <hi>As if they had more Turbulence ordeyn'd.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>To Happen ſhortly in</hi> Ireland, <hi>though the greateſt Troubles ſeem now to be over.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>FEBRUARY.</head>
+               <p>SUperiours ſeem now to be Vexed with the ſtern and frowning ſort of Common People, as if ſomething lately paſt were in remem<g ref="char:EOLhyphen"/>brance, which alſo ſeems to ſtick in the Stomachs of ſuch Common People, and I think the Core of diſpleaſure Lies moſt in one corner of the City of <hi>Oxford.</hi> I have alſo obſerved <hi>Mars</hi> and <hi>Venus,</hi> how briskly they operate upon the Minds of Young Men, to make them deſire the Companies of young Women more then ordinarily; Rain, Hail or Snow on or about the 7th. 9th. and 24th days, ſomewhat windy on or about the 15th. and 24th. days,—The Sun now Eclipſed, ſee before.</p>
+               <lg>
+                  <l>
+                     <hi>I Wonder why Sly</hi> Saturn <hi>Entertains.</hi>
+                  </l>
+                  <l>
+                     <hi>The Warring Planet to Enrage his Brains;</hi>
+                  </l>
+                  <l>
+                     <hi>And wherefore doth he Slyly backward move,</hi>
+                  </l>
+                  <l>
+                     <hi>As if he were with</hi> Mars <hi>his Fury drove.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>I think ſure he doth ſo for no other End, then with an intent to make more Miſchiefs and Warlike Diſturbances by ſome ſecret Contrivances ſhortly in ſome Part of</hi> Ireland, <hi>though it ſeems now to be as it were quite over, and at an End,</hi> Cavete.</p>
+            </div>
+            <div type="month">
+               <pb n="9" facs="tcp:105015:6"/>
+               <head>MARCH.</head>
+               <p>THere ſeems now to be a Treacherous Sort of Common People in many Nations (eſpecially in <hi>Barbary, &amp;c.</hi>) that are not yet tho<g ref="char:EOLhyphen"/>roughly united to their own Superiours, (as well as not to the Supe<g ref="char:EOLhyphen"/>riour or Superiours of <hi>Rome</hi>) for they ſeem yet to remember ſomething paſt; <hi>Briſtol,</hi> thou art now in a Glorious and Flouriſhing Condition, but there ſeems to be a perplexing Enemy in thee or near thee; Many will now be ſubject to Griefs in their Eyes, and to Swooning Fits Many Loſſes happen to Common People, ſmall profit by Trading Rain on or about the 5th. 8th. 23th. and 25th. days, ſome probability of Thunder about the End of the Month.</p>
+               <lg>
+                  <l>
+                     <hi>Now Glorious</hi> Sol <hi>ſhines in his Exaltation,</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Jove <hi>ſhines with Him in our</hi> Engliſh <hi>Nation;</hi>
+                  </l>
+                  <l>
+                     <hi>As if Religion by ſome high Command</hi>
+                  </l>
+                  <l>
+                     <hi>Will ſhortly be Promoted in our Land.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>For Religious</hi> Jove [<hi>or</hi> Jupiter] <hi>is not only there Promoted under</hi> Sol, <hi>on the very laſt day of the Month, by being in his Triplicity in</hi> Aries, <hi>but</hi> Sol <hi>is made more Glorious alſo by</hi> Jupiter's <hi>Company; You may underſtand my meaning without an Interpreter.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>APRIL.</head>
+               <p>IN the latter half of this Month, or firſt half of the next, there are likely to be great and wiſe Conſultations in Councils, not only in <hi>England,</hi> but alſo in <hi>Scotland, Holland</hi> and <hi>Ireland,</hi> about the Affaires of <hi>Ireland,</hi> they being afraid of ſome further Treachery there. Very good and Religious thoughts are now in the Hearts and Minds of the Po<g ref="char:EOLhyphen"/>tentates of <hi>England,</hi> though ſomething may happen to provoke them to anger, but an undaunted Courage is in them, to Conſult and Act for the good of the Communalty, who now ſeem more willing to Furniſh our Superiours with Money, though they love it too well themſelves: <hi>Paris</hi> is undervalued, or ſome way vext or threatned; Rain or Hail on or about the 5th. 15th. 19th. and 26th. days; High Winds on or about the 15th. and 26th. days.</p>
+               <lg>
+                  <l>
+                     <hi>Four Planets in the Council-Houſe are Walking;</hi>
+                  </l>
+                  <l>
+                     <hi>And Two of them in</hi> Englands <hi>Sign are Talking</hi>
+                  </l>
+                  <l>
+                     <hi>Diſcreetly too: And Two in</hi> Irelands <hi>Station</hi>
+                  </l>
+                  <l>
+                     <hi>As if they would Conſult about that Nation.</hi>
+                  </l>
+                  <l>
+                     <hi>As well as about the Affairs of our own Land.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="month">
+               <pb n="10" facs="tcp:105015:7"/>
+               <head>MAY.</head>
+               <p>IN the latter half of this Month, or former half of the next, there ſeems to be a frowning ſort of Common People in <hi>England;</hi> that will be greatly troubled in Mind, and ſtirred up to paſſion againſt ſome of the well-meaning Council that Contrive for the Comfort and proſperity of the Nation; <hi>Briſtol</hi> is now in a comfortable Condition, and delights more then ordinary in pious Aſſemblies: The Common People in <hi>England</hi> and many other Countreys (at the time aforeſaid) will be more then ordinarily inclined to Company-keeping in Ale-Houſes, where they will be very apt to quarrel: Many Loſſes happen: A Probability of Rain on or about the 1ſt. 2d. 6th. 16th. and 17th. days; High Winds about the 1ſt. and 6th days.</p>
+               <lg>
+                  <l>
+                     <hi>What Lofty Strife is this in</hi> Ireland <hi>now,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet</hi> Saturn <hi>doth to Lofty</hi> Phoebus <hi>Bow:</hi>
+                  </l>
+                  <l>
+                     <hi>The Miſchief-Maker ſeems to Hide his Face,</hi>
+                  </l>
+                  <l>
+                     <hi>And both the Fortunes now Proclaim a Peace</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>In</hi> Ireland; <hi>I wiſh it may Continue: Religious</hi> Jupiter <hi>(I Perceive) longs to ſee it Eſtabliſh'd there; for He Reſolves to ſtay in</hi> Irelands <hi>Sign theſe Twelve Months yet, but you ſhall know more by and by.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>JUNE.</head>
+               <p>THE Hot Month is come, yet the Spirits of the Communalty ſeem to be Cool, or to be more enclined to Peace then to Warre: <hi>Lon<g ref="char:EOLhyphen"/>don</hi> cryes out aloud for Peace as well as <hi>Ireland,</hi> eſpecially in the latter half of the Month; Great Tranquillity indeed ſeems to be in <hi>Ireland,</hi> though there is yet (I fear) in ſome part thereof a ſecret Treacherous ſpirit remaining, that lies obſcure like an Innocent, yet will ſhortly ap<g ref="char:EOLhyphen"/>pear (perhaps the next Month) Many Diſtempers happen among Cat<g ref="char:EOLhyphen"/>tel, eſpecially amongſt ſmall Cattel: Many Miſcarriages amongſt Wo<g ref="char:EOLhyphen"/>men with Child: Rain on or about the 12th. 13th. 21th. and 25th. days: Some Probability of Thunder about the 10th. and 24th. days.</p>
+               <lg>
+                  <l>Venus <hi>that on the</hi> Iriſh <hi>Shore Reſides,</hi>
+                  </l>
+                  <l>
+                     <hi>Contends with</hi> Saturn, <hi>ſtrongly Him derides.</hi>
+                  </l>
+                  <l>
+                     <hi>Then comes to</hi> London <hi>with a ſmiling Face</hi>
+                  </l>
+                  <l>
+                     <hi>To Keep the Citizens in Love and Peace</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>A Little while; But I doubt She will not Preſerve them at all from Wan<g ref="char:EOLhyphen"/>tonneſs, ſhe being too Wanton her ſelf.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <pb n="11" facs="tcp:105015:7"/>
+               <head>JULY.</head>
+               <p>THE latter Half of this Month is likely to produce many Remark<g ref="char:EOLhyphen"/>able Events: Kings and Councils appear in great Glory and Splen<g ref="char:EOLhyphen"/>dor, but the <hi>Iriſh</hi> Warres ſeems to Leap off the Land into the Sea, that I fear there will be great danger on the Seas (eſpecially near <hi>Ireland</hi>) by reaſon of Sea-Fights and Pyrates: Many Ships, I fear, will be taken: Many Miſchiefs alſo on the Roads, that Travellers had need to beware: The Inhabitants of <hi>Briſtol</hi> now ſeem to be famouſly United in their Minds to Eminent Councils; But <hi>Paris</hi> ſuffers by Reproaches; Some Religion is oppreſt, or ſome way ſuffers, but I have Spyed out a Friend in a Corner; Rain on or about the 10th. and 23th. a probability of Thunder on or about the 6th. 9th. 23th. 25th. and 26th. days.</p>
+               <lg>
+                  <l>
+                     <hi>Now Valiant</hi> Mars <hi>is out of</hi> England <hi>quite,</hi>
+                  </l>
+                  <l>
+                     <hi>And on the</hi> Iriſh <hi>Seas intends to Fight;</hi>
+                  </l>
+                  <l>
+                     <hi>And in Conceit I Hear the Cannons Rore,</hi>
+                  </l>
+                  <l>
+                     <hi>To Keep the Furies off the</hi> Iriſh <hi>Shore;</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>For indeed, I fear, there is now a Furious Enemy endeavoring to Land in</hi> Ireland, <hi>where I perceive there is yet a ſecret Miſchievous Party remaining, but</hi> Jupiter <hi>(that Loves Peace more then Warre) being now an Inhabitant in</hi> Ireland, <hi>exhilarates the better ſort of Martial Spirits there, and encourageth them to ſtand up for their Religion.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>AUGUST.</head>
+               <p>THis ſeems to be a Month of much Action, and it behoves me to ſpeak the Truth (as near as I can,) Wiſe are the Conſultations that are now in Councils about Religious Orders, but I fear their Unity is not perfect, and that ſome of them may receive ſome hot and angry Contradictions from a Perſon more Superiour in Power: <hi>Jupiter</hi> lord of the 11th. in oppoſition to the 10th. tells us the Offence given, will be about Religious Orders, and <hi>Mars</hi> in <hi>Gemini</hi> tells us, That <hi>London</hi> is one of the many places, where (I fear) thoſe kinds of Diſcords will be (as well as in the greateſt part of the <hi>Turks</hi> Dominions) what can I do more then to wiſh they could better agree, ſome of the Communalty ſeem alſo to frown, and I doubt it is at Superiours: Great danger of many Miſcarriages to Women with Child; A probability of Rain about the 6th. 9th. and 25th. days; Alſo a probability of Thunder about the 6th. 7th. 20th. and 23th. days, pretty windy about the 7th. 9th. and 12th days: The Sun now Eclipſed, ſee before.</p>
+               <lg>
+                  <pb n="12" facs="tcp:105015:8"/>
+                  <l>
+                     <hi>Wiſe</hi> Merc'ry <hi>that Receives the furious Starre,</hi>
+                  </l>
+                  <l>
+                     <hi>Speaks Eloquence to</hi> Jove <hi>about the Warre,</hi>
+                  </l>
+                  <l>
+                     <hi>As if ſome wiſe Ambaſſador was ſent</hi>
+                  </l>
+                  <l>
+                     <hi>To let</hi> Jove <hi>know his Peaceable Intent,</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Who is yet in</hi> Ireland, <hi>and he denotes the Perſons of the beſt Religion, he conſents to a Peace, but malicious</hi> Saturn <hi>is ſo full of ſecret Contrivances that I doubt he is not yet to be truſted in</hi> Ireland; <hi>but</hi> Mars <hi>goes now out of</hi> Taurus <hi>into</hi> Gemini, <hi>and perhaps ſome Souldiering part will come out of</hi> Ireland <hi>to</hi> London.</p>
+            </div>
+            <div type="month">
+               <head>SEPTEMBER.</head>
+               <p>I Pray be not angry, if I tell you that angry <hi>Mars</hi> is now got into the Council-Houſe, as well as into <hi>Londons</hi> Aſcendant, and he is more wiſe and more Noble then he uſeth to be, becauſe he is in Trine to <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> and lord of the 10th. I pray muſe upon this a little, and than tell me whether the Anger that I mentioned in the laſt Month be quite over yet or not, for my part, I think it not quite over, nor quite ſo bad; I have a mind to tell you of ſomthing elſe too, though it be the ſame that I have told you of once already, — The quarrelſom Planet <hi>Mars</hi> entred into <hi>Gemini</hi> on the 5th. day of the laſt Month, and from thence he will continue there about ſeven Months, during which time I fear there will be many unuſual Diſcords, and ſome ſecret Miſchie<g ref="char:EOLhyphen"/>vous Plotting too, and I think you will be of my Opinion when you have Conſidered that <hi>Mars</hi> is the Diſpoſitor of <hi>Saturn;</hi> But I'le tell you ſomething more to the purpoſe by and by; Women with Child will be in great danger of Miſcarriages; A probability of Rain on or about the 3d. 15th. 17th. and 30th. days.</p>
+               <lg>
+                  <l>Venus <hi>Gives</hi> Jove <hi>her Courteous Salutation,</hi>
+                  </l>
+                  <l>
+                     <hi>Wiſhing Him Peace now in the</hi> Iriſh <hi>Nation;</hi>
+                  </l>
+                  <l>L—n, <hi>Oh thou art now become the place,</hi>
+                  </l>
+                  <l>
+                     <hi>Where furious</hi> Mars <hi>ſtares with his brazen Face,</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>With Miſchievous</hi> Saturn <hi>in his Boſom; And whereas this Autumnal In<g ref="char:EOLhyphen"/>greſs happens but one day after the Preventional New Moon (their Aſcendants alſo being the ſame) they will Operate both together the more powerfully this Month, and the beginning of the next.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>OCTOBER.</head>
+               <p>THis ſeems to be a Month of Remarkable Events, and it ſeems to produce much Brawling and Strife amongſt Common People, and a great diſunity between ſome Religious ſort of Commons, and Coun<g ref="char:EOLhyphen"/>cils,
+<pb n="13" facs="tcp:105015:8"/>for indeed ſomething ſeems to be there which the Commons ſa<g ref="char:EOLhyphen"/>vour not, for <hi>Saturn</hi> is crept into the Council-Houſe now, where <hi>Mars</hi> was at the laſt New Moon, and whereever he goes he uſually makes diſcords; I am loth to write ſo much about ſuch high Aſſemblies, (be<g ref="char:EOLhyphen"/>cauſe ſome may think, I mean thoſe in <hi>England</hi> as well as in other pla<g ref="char:EOLhyphen"/>ces, though indeed I do not gain ſay what they may think (for thoughts are free) but my meaning is, that thoſe kind of diſcords will happen chiefely in <hi>Spain, Hungary, Ireland, &amp;c.</hi>) but if I write not that which is ſomething near the truth, I had better write nothing at all, for if <hi>Mars</hi> or <hi>Saturn</hi> be at any time in the Council-Houſe, it is not in my power to Command them to be gone: I wiſh thoſe Branglings about Religion may at laſt rather End with the Tongue than with the Sword: Some likelihood of Rain or Hail on or about the 3.8.16.19. and 22. days; High winds on or about the 3.8.13.16. and 28. days.</p>
+               <lg>
+                  <l>
+                     <hi>Wiſe</hi> Merc'ry's <hi>in the Council-Houſe, but He</hi>
+                  </l>
+                  <l>
+                     <hi>With</hi> Iriſh Jove <hi>can by no means Agree;</hi>
+                  </l>
+                  <l>
+                     <hi>With Him about Religion He contends,</hi>
+                  </l>
+                  <l>
+                     <hi>And twice his furious Rayes unto Him-ſends.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>For you muſt underſtand he is the Diſpoſitor of angry</hi> Mars: <hi>At the latter End of this</hi> Month <hi>the</hi> Planet Saturn <hi>enters into</hi> Sagittarius, <hi>and it is ſaid when he goes out of one Sign into another, there doth uſually happen ſome kind of Apparition in the Air.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>NOVEMBER.</head>
+               <p>THere ſeems now to be a Sly, Envious and diſſatisfied Spirit in the hearts and minds of many of the inferiour ſort of Common people againſt the Higher Powers in many places; and I am almoſt afraid of ſome great City in <hi>England,</hi> for <hi>Saturn</hi> is now got into <hi>Sagittarius,</hi> and he is under the Earth, applying to the Oppoſition of the Cuſp of the 10th. Houſe in <hi>Gemini,</hi> the Aſcendant of a great City; Our Superiours there have now need to be very vigilant; God preſerve them from dan<g ref="char:EOLhyphen"/>gers by ſome Miſchievous Plot; My Pen may do them ſome good, but per; haps their own Care and Wiſdom may do them more good; Let the Higher Powers that are at <hi>Greece, Corinthia, Babylon</hi> and <hi>Aſſyria</hi> beware but enough of this becauſe they are Countreys far remote from us; There ſeems indeed to be fears and troubled ſpirits amongſt (almoſt) all ſorts of people; <hi>Briſtol</hi> ſeems to lie under ſome ſcandalous Reports; and as it were to be ſubject to ſome kind of Affronts by a ſecret Enemy; Many great Men dy: Many Sickneſſes amongſt Common people; Rain, Hail or Snow on or about the 5.7 10.14.24. and 27. days — A very Rainy or Snowy month—High-winds about the 7 and 24. days.</p>
+               <lg>
+                  <pb n="14" facs="tcp:105015:9"/>
+                  <l>
+                     <hi>Wiſe</hi> Merc'ry's <hi>now with</hi> Mars <hi>his Fury drove,</hi>
+                  </l>
+                  <l>
+                     <hi>Once more to throw his Verbal Darts at</hi> Jove;</l>
+                  <l>
+                     <hi>Soon after goes to</hi> Saturn <hi>with great Ire;</hi>
+                  </l>
+                  <l>
+                     <hi>They Whiſper, and with Treach'rous Hearts Conſpire</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>To do ſome miſchief (I fear) to Superiours, I have already told you where, though I have not told you yet, that I fear that</hi> People <hi>of ſeveral de<g ref="char:EOLhyphen"/>grees will be Confederates with the Inferiour ſort.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>DECEMBER.</head>
+               <p>THIS Month, I think, begins with high windy words at <hi>London,</hi> and Controverſies and publick diſcords ſeem to be there this Month, I wiſh it may not continue till the beginning of <hi>March;</hi> but if it doth, it will then creep into a corner and ſleep for a time, till Sly malitious <hi>Saturn</hi> hath plotted ſome ſecret Miſchief there (which I think he al<g ref="char:EOLhyphen"/>ready begins to do) though I ſcarce believe it will be ripe enough till the latter End of <hi>November</hi> next, and then <hi>Mars</hi> will awake and ſtart up in a warlike Fury to execute the ſecret Miſchievous deſign of <hi>Saturn;</hi> the Year is drawing to an end, I wiſh the troubles were too; Moſt of the Communalty ſeem to deſire Peace, eſpecially about the middle of the Month, but their Minds ſeem to be diſquieted about the times, and to be tumbled and toſs'd like a Ship upon the Rude and deep Ocean: Many Loſſes now happen to Common people; Snow or Rain on or a<g ref="char:EOLhyphen"/>bout the 7. and 22. days, or at leaſt Cloudy; ſome Winds about the 4. and 12. days,</p>
+               <lg>
+                  <l>
+                     <hi>Now Smiling</hi> Venus <hi>ſends her Greeting Rayes</hi>
+                  </l>
+                  <l>
+                     <hi>To</hi> Pious Jove <hi>who yet in</hi> Ireland <hi>ſtayes;</hi>
+                  </l>
+                  <l>Hermes <hi>beholds Him with a Courteous Face,</hi>
+                  </l>
+                  <l>
+                     <hi>Great</hi> Sol <hi>ſalutes Him with ſweet words of</hi> Peace.</l>
+               </lg>
+               <p>
+                  <hi>So that</hi> Peace <hi>ſeems now to be better Eſtabliſhed in</hi> Ireland, <hi>and the hearts and minds of many there Rejoyce.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_medical_and_astrological_advice__and_medicines">
+            <head>ADVERTISEMENT.</head>
+            <p>THeſe are to Give Notice, That at the <hi>Blew Boar</hi> in the <hi>Old Bayley,</hi> (near <hi>Newgate</hi>) Liveth a Student in Phyſick and Aſtrology, who by that Noble and Sublime Art, Reſolveth all Lawful Queſtion which Ra<g ref="char:EOLhyphen"/>tionally can be Required.</p>
+            <p>Alſo very good Medicines for the Cure of moſt (Curable Diſeaſes)</p>
+            <p>His Houres are from 8 in the Morning till 7 at Nighe</p>
+         </div>
+      </back>
+   </text>
+</TEI>
